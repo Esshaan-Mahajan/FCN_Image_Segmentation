@@ -6,7 +6,7 @@ Dataset Used: Pascal VOC 2012 dataset
 
 ## Task
 
-Orginal Image:
+Original Image:
 <img width="406" alt="image" src="https://github.com/Esshaan-Mahajan/FCN_Image_Segmentation/assets/56061481/d8c74508-cb69-4ae3-ae20-b3b9b254aef0">
 
 Target Segmentation:
@@ -22,4 +22,4 @@ Target Segmentation:
 
 
 
-Note: This was part of my work for my research intern at IIITD.
+Note: This was part of my work as research intern at IIITD.
